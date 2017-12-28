@@ -1,2 +1,3 @@
 # M-Script
-The Smart Multi-paradigm programming language based LLVM.
+The Smart LLVM Based Multi-paradigm programming language.
+Foo bar.
